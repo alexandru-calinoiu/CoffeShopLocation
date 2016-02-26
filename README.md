@@ -1,7 +1,3 @@
-# Ruby
-
-Do a interation in ruby
-
 ## Requierments
 1. Install rvm by following this [simple instructions](https://rvm.io/rvm/install)
 2. Navigate to the ruby folder in your favorite console
@@ -10,7 +6,12 @@ Do a interation in ruby
 
 ## How to
 
+In your terminal run
+
+```
+./finder 47.6 -122.4 /home/calin/Playground/CoffeShopFinder/spec/support/CoffeeShops.csv
+```
+
 ## Run the specs
 1. Run `rspec`
 
-Happy coding!
