@@ -17,8 +17,9 @@ RSpec.describe CoffeeShopLocation do
     end
 
     context 'with incomplete input' do
+      let(:input) { 'Starbucks Seattle,47.5809' }
 
-
+      it { is_expected.not_to be_valid }
     end
   end
 end
