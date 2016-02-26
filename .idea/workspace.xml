@@ -28,7 +28,9 @@
     <list default="true" id="7dab867d-1b54-4d4e-84b1-f22f01e3e4df" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/coffee_shop_location.rb" afterPath="$PROJECT_DIR$/lib/coffee_shop_location.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/find_me_three_coffee_shops.rb" afterPath="$PROJECT_DIR$/lib/find_me_three_coffee_shops.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spec/lib/coffee_shop_location_spec.rb" afterPath="$PROJECT_DIR$/spec/lib/coffee_shop_location_spec.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spec/lib/find_me_three_coffee_shops_spec.rb" afterPath="$PROJECT_DIR$/spec/lib/find_me_three_coffee_shops_spec.rb" />
     </list>
     <ignored path="ruby.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -44,10 +46,10 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/ruby@FindMeThreeCoffeeShops_length_is_expected_to_eq_3__ruby.coverage" NAME="FindMeThreeCoffeeShops length is expected.to eq 3: ruby Coverage Results" MODIFIED="1456506790485" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ruby" />
     <SUITE FILE_PATH="coverage/ruby@Empty__ruby.coverage" NAME="Empty: ruby Coverage Results" MODIFIED="1456504397410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ruby" />
-    <SUITE FILE_PATH="coverage/ruby@CoffeeShopLocation__ruby.coverage" NAME="CoffeeShopLocation: ruby Coverage Results" MODIFIED="1456508121796" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ruby" />
+    <SUITE FILE_PATH="coverage/ruby@CoffeeShopLocation__ruby.coverage" NAME="CoffeeShopLocation: ruby Coverage Results" MODIFIED="1456508467776" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ruby" />
     <SUITE FILE_PATH="coverage/ruby@Empty_will_not_fail__ruby.coverage" NAME="Empty will not fail: ruby Coverage Results" MODIFIED="1456504480990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ruby" />
-    <SUITE FILE_PATH="coverage/ruby@FindMeThreeCoffeeShops__ruby.coverage" NAME="FindMeThreeCoffeeShops: ruby Coverage Results" MODIFIED="1456507310213" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ruby" />
-    <SUITE FILE_PATH="coverage/ruby@FindMeThreeCoffeeShops_works__ruby.coverage" NAME="FindMeThreeCoffeeShops works: ruby Coverage Results" MODIFIED="1456507469517" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ruby" />
+    <SUITE FILE_PATH="coverage/ruby@FindMeThreeCoffeeShops__ruby.coverage" NAME="FindMeThreeCoffeeShops: ruby Coverage Results" MODIFIED="1456509883182" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ruby" />
+    <SUITE FILE_PATH="coverage/ruby@FindMeThreeCoffeeShops_works__ruby.coverage" NAME="FindMeThreeCoffeeShops works: ruby Coverage Results" MODIFIED="1456509782399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ruby" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -62,37 +64,37 @@
         <entry file="file://$PROJECT_DIR$/lib/find_me_three_coffee_shops.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+              <caret line="18" column="67" selection-start-line="18" selection-start-column="67" selection-end-line="18" selection-end-column="67" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="coffee_shop_location.rb" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lib/coffee_shop_location.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.27210885">
-              <caret line="12" column="58" selection-start-line="12" selection-start-column="58" selection-end-line="12" selection-end-column="58" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="coffee_shop_location_spec.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spec/lib/coffee_shop_location_spec.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="19" column="46" selection-start-line="19" selection-start-column="46" selection-end-line="19" selection-end-column="46" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="find_me_three_coffee_shops_spec.rb" pinned="false" current-in-tab="false">
+      <file leaf-file-name="find_me_three_coffee_shops_spec.rb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/spec/lib/find_me_three_coffee_shops_spec.rb">
           <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.27210885">
+              <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="hash.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_HOME_DIR$/rubystubs22/hash.rb">
+          <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="20" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="20" />
+              <caret line="652" column="8" selection-start-line="652" selection-start-column="8" selection-end-line="652" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="coffee_shop_location.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/coffee_shop_location.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -103,16 +105,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CoffeeShops.csv" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spec/support/CoffeeShops.csv">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -139,10 +131,10 @@
         <option value="$PROJECT_DIR$/spec/support/CoffeeShops.csv" />
         <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/spec/spec_helper.rb" />
-        <option value="$PROJECT_DIR$/spec/lib/find_me_three_coffee_shops_spec.rb" />
-        <option value="$PROJECT_DIR$/lib/find_me_three_coffee_shops.rb" />
-        <option value="$PROJECT_DIR$/spec/lib/coffee_shop_location_spec.rb" />
         <option value="$PROJECT_DIR$/lib/coffee_shop_location.rb" />
+        <option value="$PROJECT_DIR$/spec/lib/coffee_shop_location_spec.rb" />
+        <option value="$PROJECT_DIR$/lib/find_me_three_coffee_shops.rb" />
+        <option value="$PROJECT_DIR$/spec/lib/find_me_three_coffee_shops_spec.rb" />
       </list>
     </option>
   </component>
@@ -229,6 +221,24 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="support" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ruby" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CoffeShopFinder" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spec" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="lib" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -264,7 +274,7 @@
       <recent name="$PROJECT_DIR$/lib" />
     </key>
   </component>
-  <component name="RunManager" selected="RSpec.CoffeeShopLocation: ruby">
+  <component name="RunManager" selected="RSpec.FindMeThreeCoffeeShops: ruby">
     <configuration default="false" name="Empty will not fail: ruby" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
       <predefined_log_file id="RUBY_RSPEC" enabled="true" />
       <module name="ruby" />
@@ -578,9 +588,9 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="RSpec.CoffeeShopLocation: ruby" />
+        <item index="0" class="java.lang.String" itemvalue="RSpec.FindMeThreeCoffeeShops: ruby" />
         <item index="1" class="java.lang.String" itemvalue="RSpec.FindMeThreeCoffeeShops works: ruby" />
-        <item index="2" class="java.lang.String" itemvalue="RSpec.FindMeThreeCoffeeShops: ruby" />
+        <item index="2" class="java.lang.String" itemvalue="RSpec.CoffeeShopLocation: ruby" />
         <item index="3" class="java.lang.String" itemvalue="RSpec.FindMeThreeCoffeeShops length is expected.to eq 3: ruby" />
         <item index="4" class="java.lang.String" itemvalue="RSpec.Empty will not fail: ruby" />
       </list>
@@ -615,39 +625,45 @@
       <option name="project" value="LOCAL" />
       <updated>1456507937818</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="account for incomplete locations">
+      <created>1456508136930</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1456508136930</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CoffeeShopLocation__ruby - 2016.02.26 at 19h 31m 05s.xml">
-      <configuration name="CoffeeShopLocation: ruby" configurationId="RSpecRunConfigurationType" />
+    <history-entry file="FindMeThreeCoffeeShops__ruby - 2016.02.26 at 20h 03m 12s.xml">
+      <configuration name="FindMeThreeCoffeeShops: ruby" configurationId="RSpecRunConfigurationType" />
     </history-entry>
-    <history-entry file="CoffeeShopLocation__ruby - 2016.02.26 at 19h 31m 31s.xml">
-      <configuration name="CoffeeShopLocation: ruby" configurationId="RSpecRunConfigurationType" />
+    <history-entry file="FindMeThreeCoffeeShops__ruby - 2016.02.26 at 20h 03m 23s.xml">
+      <configuration name="FindMeThreeCoffeeShops: ruby" configurationId="RSpecRunConfigurationType" />
     </history-entry>
-    <history-entry file="CoffeeShopLocation__ruby - 2016.02.26 at 19h 31m 38s.xml">
-      <configuration name="CoffeeShopLocation: ruby" configurationId="RSpecRunConfigurationType" />
+    <history-entry file="FindMeThreeCoffeeShops__ruby - 2016.02.26 at 20h 04m 43s.xml">
+      <configuration name="FindMeThreeCoffeeShops: ruby" configurationId="RSpecRunConfigurationType" />
     </history-entry>
-    <history-entry file="CoffeeShopLocation__ruby - 2016.02.26 at 19h 32m 41s.xml">
-      <configuration name="CoffeeShopLocation: ruby" configurationId="RSpecRunConfigurationType" />
+    <history-entry file="FindMeThreeCoffeeShops_works__ruby - 2016.02.26 at 19h 58m 53s.xml">
+      <configuration name="FindMeThreeCoffeeShops works: ruby" configurationId="RSpecRunConfigurationType" />
     </history-entry>
-    <history-entry file="CoffeeShopLocation__ruby - 2016.02.26 at 19h 33m 25s.xml">
-      <configuration name="CoffeeShopLocation: ruby" configurationId="RSpecRunConfigurationType" />
+    <history-entry file="FindMeThreeCoffeeShops_works__ruby - 2016.02.26 at 20h 00m 09s.xml">
+      <configuration name="FindMeThreeCoffeeShops works: ruby" configurationId="RSpecRunConfigurationType" />
     </history-entry>
-    <history-entry file="CoffeeShopLocation__ruby - 2016.02.26 at 19h 33m 40s.xml">
-      <configuration name="CoffeeShopLocation: ruby" configurationId="RSpecRunConfigurationType" />
+    <history-entry file="FindMeThreeCoffeeShops_works__ruby - 2016.02.26 at 20h 01m 02s.xml">
+      <configuration name="FindMeThreeCoffeeShops works: ruby" configurationId="RSpecRunConfigurationType" />
     </history-entry>
-    <history-entry file="CoffeeShopLocation__ruby - 2016.02.26 at 19h 34m 08s.xml">
-      <configuration name="CoffeeShopLocation: ruby" configurationId="RSpecRunConfigurationType" />
+    <history-entry file="FindMeThreeCoffeeShops_works__ruby - 2016.02.26 at 20h 02m 04s.xml">
+      <configuration name="FindMeThreeCoffeeShops works: ruby" configurationId="RSpecRunConfigurationType" />
     </history-entry>
-    <history-entry file="CoffeeShopLocation__ruby - 2016.02.26 at 19h 34m 48s.xml">
-      <configuration name="CoffeeShopLocation: ruby" configurationId="RSpecRunConfigurationType" />
+    <history-entry file="FindMeThreeCoffeeShops_works__ruby - 2016.02.26 at 20h 02m 31s.xml">
+      <configuration name="FindMeThreeCoffeeShops works: ruby" configurationId="RSpecRunConfigurationType" />
     </history-entry>
-    <history-entry file="CoffeeShopLocation__ruby - 2016.02.26 at 19h 35m 02s.xml">
-      <configuration name="CoffeeShopLocation: ruby" configurationId="RSpecRunConfigurationType" />
+    <history-entry file="FindMeThreeCoffeeShops_works__ruby - 2016.02.26 at 20h 02m 54s.xml">
+      <configuration name="FindMeThreeCoffeeShops works: ruby" configurationId="RSpecRunConfigurationType" />
     </history-entry>
-    <history-entry file="CoffeeShopLocation__ruby - 2016.02.26 at 19h 35m 22s.xml">
-      <configuration name="CoffeeShopLocation: ruby" configurationId="RSpecRunConfigurationType" />
+    <history-entry file="FindMeThreeCoffeeShops_works__ruby - 2016.02.26 at 20h 03m 02s.xml">
+      <configuration name="FindMeThreeCoffeeShops works: ruby" configurationId="RSpecRunConfigurationType" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -658,12 +674,13 @@
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32932165" sideWeight="0.50292826" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="true" show_stripe_button="true" weight="0.32932165" sideWeight="0.49707174" order="2" side_tool="false" content_ui="tabs" x="1924" y="0" width="1387" height="1077" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="true" show_stripe_button="true" weight="0.32932165" sideWeight="0.49707174" order="2" side_tool="false" content_ui="tabs" x="1924" y="0" width="1387" height="1077" />
       <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TeamCity" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32932165" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -672,7 +689,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -691,7 +707,8 @@
     <MESSAGE value="update ruby and add rubocop" />
     <MESSAGE value="add integration test" />
     <MESSAGE value="add coffeeshop location class" />
-    <option name="LAST_COMMIT_MESSAGE" value="add coffeeshop location class" />
+    <MESSAGE value="account for incomplete locations" />
+    <option name="LAST_COMMIT_MESSAGE" value="account for incomplete locations" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -738,10 +755,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/spec/spec_helper.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.06802721">
+          <caret line="3" column="63" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/rubystubs22/math.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.60544217">
+          <caret line="273" column="13" selection-start-line="273" selection-start-column="13" selection-end-line="273" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/lib/coffee_shop_location_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.045351475">
+          <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/spec/support/CoffeeShops.csv">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.09070295">
+          <caret line="4" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -754,10 +795,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spec/spec_helper.rb">
+    <entry file="file://$PROJECT_DIR$/lib/coffee_shop_location.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.06802721">
-          <caret line="3" column="63" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="63" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/rubystubs22/hash.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="652" column="8" selection-start-line="652" selection-start-column="8" selection-end-line="652" selection-end-column="8" />
           <folding />
         </state>
       </provider>
@@ -765,31 +814,15 @@
     <entry file="file://$PROJECT_DIR$/lib/find_me_three_coffee_shops.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+          <caret line="18" column="67" selection-start-line="18" selection-start-column="67" selection-end-line="18" selection-end-column="67" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spec/lib/find_me_three_coffee_shops_spec.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="20" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spec/lib/coffee_shop_location_spec.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="19" column="46" selection-start-line="19" selection-start-column="46" selection-end-line="19" selection-end-column="46" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/coffee_shop_location.rb">
-      <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.27210885">
-          <caret line="12" column="58" selection-start-line="12" selection-start-column="58" selection-end-line="12" selection-end-column="58" />
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding />
         </state>
       </provider>
