@@ -1,4 +1,4 @@
-require 'coffee_shop_location'
+require_relative 'coffee_shop_location'
 
 class FindMeThreeCoffeeShops
   attr :myx, :myy, :filename
