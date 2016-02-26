@@ -1,0 +1,13 @@
+require:
+  - rubocop-rspec
+
+AllCops:
+  Exclude:
+    - 'db/**/*'
+    - 'config/**/*'
+    - 'script/**/*'
+
+Metrics/LineLength:
+  Max: 120
+Style/Documentation:
+  Enabled: false
