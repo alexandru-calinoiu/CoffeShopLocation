@@ -9,7 +9,7 @@
 In your terminal run
 
 ```
-./finder 47.6 -122.4 /home/calin/Playground/CoffeShopFinder/spec/support/CoffeeShops.csv
+./bin/finder 47.6 -122.4 /home/calin/Playground/CoffeShopFinder/spec/support/CoffeeShops.csv
 ```
 
 ## Run the specs
